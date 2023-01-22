@@ -1,4 +1,4 @@
-# Subway
+# Sandwich bot
 
 A practical example on how to perform sandwich attacks on UniswapV2 pairs.
 
